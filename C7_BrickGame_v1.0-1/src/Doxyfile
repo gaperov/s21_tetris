@@ -1,0 +1,7 @@
+PROJECT_NAME           = "BrickGame Tetris"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = src
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+LATEX_OUTPUT           = latex
